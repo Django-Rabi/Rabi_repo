@@ -1,0 +1,30 @@
+.container.jumbotron{
+  background: red;
+  color: white;
+  margin-top: 150px;
+}
+
+body
+{
+  background: URL("https://images.template.net/wp-content/uploads/2014/09/Beautiful-Background-Wallpaper-Copy.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+  color: red;
+  text-align: center;
+}
+
+ul{
+
+  color: green;
+}
+
+img{
+  height: 250px;
+  width: 400px;
+  margin: 30px;
+  border: 5px solid red;
+
+}
